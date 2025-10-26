@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 6da784f4d024a493eaa87e601fb2b1dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6869688957792370497
+    second: survivor-idle_rifle_1_0
+  - first:
+      213: -1494757439768227874
+    second: survivor-idle_rifle_1_1
+  - first:
+      213: 2255251862039152479
+    second: survivor-idle_rifle_1_2
+  - first:
+      213: 8813078075439256186
+    second: survivor-idle_rifle_1_3
+  - first:
+      213: 2197098324939390668
+    second: survivor-idle_rifle_1_4
+  - first:
+      213: 8431806575089239174
+    second: survivor-idle_rifle_1_5
+  - first:
+      213: 8951626960743029914
+    second: survivor-idle_rifle_1_6
+  - first:
+      213: 3654581001542258027
+    second: survivor-idle_rifle_1_7
+  - first:
+      213: -3256273828827878995
+    second: survivor-idle_rifle_1_8
+  - first:
+      213: 9134957570077106360
+    second: survivor-idle_rifle_1_9
+  - first:
+      213: -1010283981836051528
+    second: survivor-idle_rifle_1_10
+  - first:
+      213: 8936121430124770396
+    second: survivor-idle_rifle_1_11
+  - first:
+      213: 6091053902101129828
+    second: survivor-idle_rifle_1_12
+  - first:
+      213: -5487330115697171871
+    second: survivor-idle_rifle_1_13
+  - first:
+      213: 6578218450091233124
+    second: survivor-idle_rifle_1_14
+  - first:
+      213: 4264060170745320907
+    second: survivor-idle_rifle_1_15
+  - first:
+      213: 1162987188193518557
+    second: survivor-idle_rifle_1_16
+  - first:
+      213: 7147144775651767868
+    second: survivor-idle_rifle_1_17
+  - first:
+      213: -251069216784495524
+    second: survivor-idle_rifle_1_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0cc514a46f9a0a0800000000000000
+      internalID: -6869688957792370497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 828
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0e31370e814be0800000000000000
+      internalID: -1494757439768227874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 828
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c1e3ae934c4f10800000000000000
+      internalID: 2255251862039152479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 828
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a721750e0d75e4a70800000000000000
+      internalID: 8813078075439256186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3e9a2949ad7e10800000000000000
+      internalID: 2197098324939390668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6844ffa086bc30570800000000000000
+      internalID: 8431806575089239174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cd5e40b419a3c70800000000000000
+      internalID: 8951626960743029914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d41dfde0ea7b230800000000000000
+      internalID: 3654581001542258027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9205584346fc2d0800000000000000
+      internalID: -3256273828827878995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b026bac283e5ce70800000000000000
+      internalID: 9134957570077106360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb156c3210caf1f0800000000000000
+      internalID: -1010283981836051528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b758581b730c70800000000000000
+      internalID: 8936121430124770396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aae7e8045c78450800000000000000
+      internalID: 6091053902101129828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1622198355619d3b0800000000000000
+      internalID: -5487330115697171871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fcb94d3d68a4b50800000000000000
+      internalID: 6578218450091233124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc59a22222cfc2b30800000000000000
+      internalID: 4264060170745320907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3ea969fa2c32010800000000000000
+      internalID: 1162987188193518557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3633076e42cf2360800000000000000
+      internalID: 7147144775651767868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: survivor-idle_rifle_1_18
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c4687a0e5048cf0800000000000000
+      internalID: -251069216784495524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b629382582584e28852aaf84cdda6f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":313.0,"y":207.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      survivor-idle_rifle_1_0: -6869688957792370497
+      survivor-idle_rifle_1_1: -1494757439768227874
+      survivor-idle_rifle_1_10: -1010283981836051528
+      survivor-idle_rifle_1_11: 8936121430124770396
+      survivor-idle_rifle_1_12: 6091053902101129828
+      survivor-idle_rifle_1_13: -5487330115697171871
+      survivor-idle_rifle_1_14: 6578218450091233124
+      survivor-idle_rifle_1_15: 4264060170745320907
+      survivor-idle_rifle_1_16: 1162987188193518557
+      survivor-idle_rifle_1_17: 7147144775651767868
+      survivor-idle_rifle_1_18: -251069216784495524
+      survivor-idle_rifle_1_2: 2255251862039152479
+      survivor-idle_rifle_1_3: 8813078075439256186
+      survivor-idle_rifle_1_4: 2197098324939390668
+      survivor-idle_rifle_1_5: 8431806575089239174
+      survivor-idle_rifle_1_6: 8951626960743029914
+      survivor-idle_rifle_1_7: 3654581001542258027
+      survivor-idle_rifle_1_8: -3256273828827878995
+      survivor-idle_rifle_1_9: 9134957570077106360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

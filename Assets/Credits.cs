@@ -1,16 +1,13 @@
-using UnityEngine;
+/*
 
-public class Credits : MonoBehaviour
-{
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
+
+
+
+
+Soldier Sprite:
+    Link - https://opengameart.org/content/animated-top-down-survivor-player
+    Author - rileygombart
+
+
+*/
