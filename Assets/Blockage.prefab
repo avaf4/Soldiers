@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 463840749668541200}
   m_Layer: 0
   m_Name: Blockage
-  m_TagString: Untagged
+  m_TagString: Bounderies
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -101,7 +101,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: ef45cd16b4f8d473e9f599eed7d3a33f, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0

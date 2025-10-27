@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ammo
+  - Bounderies
   layers:
   - Default
   - TransparentFX
@@ -41,8 +43,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Bac
+  - name: Background
     uniqueID: 2157387311
+    locked: 0
+  - name: Middle-ground
+    uniqueID: 1615077749
+    locked: 0
+  - name: Foreground
+    uniqueID: 4040102505
     locked: 0
   m_RenderingLayers:
   - Default
